@@ -679,7 +679,7 @@ Weather station
 This is a weather station for weather forecasting. And it is doing just fine.
 Body
 This is the corpse of one of your fellow villagers.
-An ineptly drawn symbol on the wall. It should be studied more closely.
+An ineptly drawn symbol on the wall. It should be studied more carefully.
 Drilling Machine
 A heavy robot equipped for drilling.
 This mountain of rocks was formed after the collapse of the mine arches. Without tools, it would take a lot of effort and time to remove it.
@@ -696,207 +696,207 @@ Some old poster. A quick look doesn't reveal anything.
 Caravan wagon prepared for shipment of purified uranium ore.
 Radio equipment
 This radio equipment is damaged beyond repair.
-Устройство для приема, обработки и передачи радиосигнала. Одна из уцелевших технологий Старого Мира.
-Окровавленный стол
-Этот стол густо залит спекшейся кровью.
-Верстак
-Импровизированный и довольно неудобный верстак на базе старой мебели. В данный момент служит для изготовления взрывчатки.
-Баррикада
-Самодельное ограждение.
-Опасное самодельное ограждение.
-Силовой кабель
-Толстый высоковольтный кабель.
-Информационный стенд
-Описание урановой шахты. Мелкие буквы давно истерлись.
-Сильно проржавевший указатель.
-Импровизированный и довольно неудобный верстак на базе старой мебели.
-Лаборатория
-Импровизированная химическая лаборатория. Одной искры хватит, чтобы здесь все взорвалось.
-Экспонат
-Искусственный спутник. Что же это такое, остается для вас загадкой.
-Указатель Флагпула
-Приветственный знак, сообщающий название города.
-Это доска с важной информацией для вновь прибывших. Ее стоит изучить более внимательно.
-Отвал
-Бесполезные отходы от выработки урановой руды.
-Антенна
-Эта антенна оснащена оборудованием для радиотрансляций.
-Конец пути
-Барьер для движения вагонеток по рельсам. Очень нужный объект.
-Виселица
-Жестокая расплата ждала этого преступника.
-Эта конструкция предназначена для повешенья преступников. И она ждет очередную жертву.
-Книжное собрание
-Небольшое собрание старых книг, кладезь довоенных знаний.
-Распределитель
-Это распределитель электроэнергии. От него тянется оголенный кабель.
-Вентиляция
-Эта шахта уходит глубоко во тьму. Оттуда веет сыростью и тухлятиной.
-Сооружение
-Племенное сооружение ритуального назначения.
-Заостренный кол с черепом.
-Самодельный стол из досок на кирпичах.
-Разделочный стол
-На этом столе Шакалы готовят... пищу.
-Тотем
-Тотем Шакалов, собранный из подручных материалов. В их числе - человеческие останки.
-Очаг
-Примитивное средство для освещения нор.
-Стол с винтовкой
-На этом грязном самодельном столе покоится разобранная охотничья винтовка.
-Разрушенная шахта лифта. Спуститься вниз без страховки невозможно.
-Разрушенная шахта лифта.
-Бочка с мусором
-Эта бочка наполнена горючим мусором. Если его поджечь, возможно, мир станет немного светлее.
-Приветствие
-Рекламный плакат, приглашающий в убежище 27.
-Различная мебель убежища, сложенная в кучу.
-Спуск к убежищу
-Спуститься вглубь темноты решится не каждый.
-Это пост смотрителя. Им давно не пользовались.
-На этой кровати мирно покоятся останки семейной пары.
-На этой кровати лежат человеческие кости. Черепа нигде не видно.
-На этой кровати лежит скелет давно умершего человека. Похоже, он был стариком.
-Мертвые тела
-Тела членов экспедиции. Закутаны в тряпки, чтобы меньше воняли.
-Библиотечный терминал
-Этот терминал дает доступ к электронной библиотеке.
-Объект технологий
-Объект высоких технологий из древних времен. Сложно сказать, что это такое.
-Тросы
-Обыкновенные веревки. С их помощью рабы тянут платформу.
-Масляная лампа
-Эта лампа содержит немного масла. Его можно поджечь, чтобы осветить пространство вокруг.
-Эта лампа тускло освещает пространство вокруг.
-Разбитый кувшин
-Этот прекрасный кувшин был разбит. Вероятно, со злым умыслом.
-Повивальное кресло
-Старое и многократно использованное кресло для родов.
-Самодельная деревянная дверь. Изготовлена на века.
-Выбитая дверь
-Эту дверь выбили каким-то оружием.
-В этой бочке хранится урановый материал.
-В этих бочках хранится урановый материал.
-Двухъярусная кровать послевоенного производства.
-Ядерная бомба
-Это ядерная бомба. Судя по виду, очень опасная.
-Платформа для бомбы
-Это основание удерживает над собой ядерную бомбу.
-Великий ZAX
-Это ZAX - электронный разум, управляющий Запретной Зоной.
-Терминал
-Это терминал для взаимодействия с Великим ZAX.
-Аварийный терминал
-Терминал для инициации аварийного импульсного взрыва.
-Поврежденная дверь
-Эта дверь была смята взрывом. Ее невозможно открыть обычным способом.
-Излучатель
-Этот самодельный излучатель предназначен для разрушения силового барьера.
-Модулятор
-Самодельное устройство, способное на несколько секунд дестабилизировать силовой барьер.
-Похоже, этот кабель соединяет строения в единую электросеть.
-Какая-то необычная разновидность двери. Она явно не рассчитана на жилые помещения.
-Старые заржавевшие трубы. Они пережили Великую Войну и проживут еще столько же.
-Тень от крыши ангара.
-Крыша ангара
-Крыша из старого гофрированного металла. На удивление крепко держится.
-Турбина
-Эта турбина от самолета больше не пригодна к эксплуатации.
-Реактивный двигатель
-Какая-то часть авиационной техники. Вам такое даже не снилось.
-Шасси
-Очень старое шасси от самолета. Резина давно вулканизировалась.
-Какое-то очень сложное компьютеризированное оборудование.
-Многофункциональный производственный станок.
-Стол с компьютером
-Тяжелый металлический стол со встроенным компьютером. Он точно самодельный.
-Большие самодельные гаражные ворота.
-Опора
-Ржавые металлические столбы, на которых держится рекламная конструкция.
-Тело бандита
-Окоченевшее тело одного из бандитов. Придется осмотреть его внимательнее.
-Перевернутый ящик. В нем явно что-то искали.
-Эта караванная повозка была разграблена. Здесь не осталось ничего ценного.
-Самодельная кровать казарменного типа.
-Ржавые стволы
-Это похоже на стволы авиационной ракетницы, но вы не уверены.
-Хвост самолета
-Этот хлам настолько давно здесь стоит, что уже врос в землю.
-Небольшое шасси от винтокрыла. Правда, вы никогда не наблюдали целого винтокрыла.
-Гора металлолома
-Кто-то сложил здесь гору ненужного хлама.
-Кабель
-Этот высоковольтный кабель соединяет оборудование с источником питания.
-Ржавая турбина от самолета.
-Турбины
-Свалка старых и никому не нужных турбин.
-Контейнер
-Прочный контейнер для хранения и перевозки различных деталей.
-Заклинившая дверь
-Эту дверь заклинило намертво. Починить ее невозможно.
-Крыша лифта
-Просто крыша лифта. Ничего особенного.
-Когда-то кабина лифта, теперь же склеп для парочки скелетов.
-Этот лифт ведет на поверхность.
-Бомбардировщик
-Останки военного самолета.
-Истребитель
-Сломанная лопата
-Кто-то сломал эту старую лопату.
-Миниган
-Старое оружие, демонтированное из салона бомбардировщика.
-Очень старое кресло. Порядковый номер не разобрать.
-Кресла
-Очень старые кресла. Сидеть на них ради просмотра фильма станет пыткой.
-Объект интерьера, созданный специально для хранения ценных вещей.
-Банковские ячейки
-Металлические шкафчики для хранения чеков и банкнот. Теперь они забиты пылью и мусором.
-Контроллер
-Уникальное оборудование электростанции.
-Водяной бак
-Самодельный бак для хранения воды. Одновременно выполняет роль водонапорной башни.
-Очень старый указатель. Однако он еще может содержать актуальную информацию.
-Самодельный колодец. Дна не видно.
-В этом кактусе вы не видите ничего примечательного, кроме его исполинского размера.
-Этот старый проржавевший указатель опасно покачивается на ветру.
-Старая ветхая дверь, облокоченная о стену. Вероятно, она слетела с петель.
-Тень от арки.
-Вещи налетчиков
-Разные сломанные вещи, оставленные налетчиками.
-Полотно
-Кусок старой заплесневелой ткани.
-Доски
-Несколько старых досок, оставленных без присмотра.
-Жесткий самодельный стул. Долго на нем не усидишь.
-Таз
-Самодельная деревянная емкость для воды. Вопреки ожиданиям не протекает.
-Гончарный круг
-Небольшой станок для изготовления гончарных изделий.
-Полки
-Как оказалось, эти обычные и хорошо знакомые вам полки не столь обыкновенны.
-Самодельные деревянные полки для хранения запасов. Полки опустошены.
-Самодельные деревянные полки для хранения запасов. От сырости на них образовалась плесень.
-Эти ветхие полки уже непригодны к эксплуатации.
-Гончарные изделия
-Различные гончарные изделия. Их будущее пока неопределенно.
-Разрушенные полки
-Эти полки были разрушены. Но их еще можно починить.
-Мешки
-Мешки с испорченными запасами.
-Немного соломы, оставшейся от прошлых урожаев.
-Сломанные доски
-Очередной мусор, оставленный после налета.
-Эти товарные стеллажи разрушены временем.
-Кладка кирпичей
-Эти кирпичи сложены для транспортировки. Но похоже, теперь они никому не нужны.
-Знамя культа
-На этом полотне изображен религиозный символ.
-Вывеска
-Это вывеска почтовой службы "Сонора Экспресс".
-Картографический стол
-На этом столе удобно создавать и изучать современные карты.
-Гидрогенератор
-Верхняя часть какого-то огромного механизма. Изнутри доносятся пугающие громкие звуки.
+A device for receiving, processing and transmitting radio signals. One of the surviving technologies of the Old World.
+Bloody table
+This table is drenched thickly with liquefied blood.
+Workbench
+An improvised and rather inconvenient workbench, assembled out of old furniture. Currently used for making explosives.
+Barricade
+Improvised fencing.
+Dangerous makeshift barricade.
+Power cable
+Thick high voltage cable.
+Information booth
+Description of the uranium mine. Small letters frayed long ago.
+A badly rusted pointing sign.
+Improvised and rather inconvenient workbench assembled out of old furniture.
+Laboratory
+A makeshift chemistry lab. One spark would be enough to make this place explode.
+Exhibit
+An artificial satellite. What it is remains a mystery to you.
+Flagstaff signpost.
+A welcome sign that announces the name of the city.
+This is a board with important information for new arrivals. It is worth examining more closely.
+Landfill
+Useless waste from uranium ore mining.
+Antenna
+This antenna is equipped with radio broadcasting equipment.
+End of the track
+A barrier for the movement of wagons on the rails. A very useful object.
+Hangman
+Cruel retribution has come to this criminal.
+This structure is designed to hang criminals. Now it is waiting for the next victim.
+Book Collection
+A small collection of old books, a treasure trove of prewar knowledge.
+Distributor
+This is the power distributor. A partially damaged cable runs from it.
+Ventilation
+This shaft goes deep into the darkness. It reeks of dampness and rottenness.
+Structure
+A tribal ritual structure.
+A sharpened stake with a skull.
+A homemade table made of planks and bricks.
+Cutting table
+On this table, the Jackals prepare... the food.
+Totem
+Totem of Jackals, assembled from improvised materialsm which include human remains.
+Hearth
+A primitive means of lighting dens.
+Table with a rifle
+A disassembled hunting rifle rests on this grimy, homemade table.
+A ruined elevator shaft. It's impossible to go down without a safety net.
+Ruined elevator shaft
+Garbage Barrel
+This barrel is filled with combustible garbage. If you set it on fire, maybe the world will get a little brighter.
+Welcoming Poster
+Advertising poster inviting you to vault 27.
+Various vault furniture stacked in a pile.
+Way to the vault
+Not everyone will dare to go down into the depths of darkness.
+This is the Overseer's post. It has not been used in a long time.
+The remains of a married couple rest peacefully on this bed.
+There are human bones on this bed. The skull is nowhere to be seen.
+On this bed lies the skeleton of a long dead man. It looks like he was quite old.
+Dead bodies
+The bodies of the expedition members. They are wrapped in rags to make them stink less.
+Library terminal
+This terminal gives access to a digital library.
+Object of technology
+A high-tech object from ancient times. It's hard to tell what it is.
+Ropes
+Ordinary ropes. With them slaves pull the platform.
+Oil lamp
+This lamp contains some oil. It can be ignited to light the space around it.
+This lamp dimly illuminates the space around it.
+Broken jug
+This beautiful jug has been broken. Probably with malicious intent.
+Birthing chair
+An old and repeatedly used birthing chair.
+A homemade wooden door. Made to last for ages.
+Knocked down door
+This door was kicked out by some kind of weapon.
+This barrel holds uranium material.
+These barrels hold uranium material.
+A post-war manufactured bunk bed.
+Nuclear bomb
+This is a nuclear bomb. Apparently, a very dangerous one.
+Platform for the bomb
+This base holds a nuclear bomb.
+ZAX
+This is ZAX, the artificial intelligence controlling the Forbidden Zone.
+Terminal
+This is the terminal for communicating with ZAX.
+Emergency terminal
+Terminal for initiating an emergency pulse burst.
+Damaged door
+This door was crushed by the explosion. It cannot be opened normally.
+Beamer
+This homemade beamer is intended for destroying the force barrier.
+Modulator
+An improvised device capable of destabilizing the force barrier for a few seconds.
+Looks like this cable connects the buildings into a single power grid.
+Some sort of unusual kind of door. It's obviously not designed for living quarters.
+Rusty old pipes. They survived the Great War and will last just as long.
+Shadow from the hangar roof.
+Hangar roof
+Roof made of old corrugated metal. It holds up surprisingly well.
+Turbine
+This turbine from an airplane is no longer serviceable.
+Jet engine
+Some piece of aircraft equipment. You couldn't even dream of that.
+Landing gear
+A very old landing gear from an airplane. The rubber was vulcanized ages ago.
+Some very sophisticated computerized equipment.
+A multifunctional production machine.
+A desk with a computer.
+A heavy metal table with a computer built in. It's definitely DYI.
+Large homemade garage door.
+Support
+Rusty metal poles that hold up the advertising structure.
+Bandit's body
+The stiffened body of one of the bandits. Gonna have to take a closer look at it.
+An upside down crate. Clearly someone was looking for something in it.
+This caravan wagon has been looted. There is nothing of value left here.
+A makeshift barracks-type bed.
+Rusty trunks
+These look like the barrels of an aircraft rocket launcher, but you're not sure.
+Aircraft tail
+This junk has been here so long that it's already grown into the ground.
+A small landing gear from a vertibird. Except you've never seen an entire vertibird.
+Mountain of scrap metal
+Someone piled a mountain of junk here.
+Cable
+This high-voltage cable connects equipment to the power source.
+A rusty turbine from an airplane.
+Turbines
+A junkyard of old and unwanted turbines.
+Container
+A sturdy container for storing and transporting various parts.
+Jammed door
+This door is permanently jammed. It cannot be repaired.
+Elevator roof
+Just an elevator roof. Nothing special.
+Once an elevator cabin, now a crypt for a couple of skeletons.
+This elevator leads to the surface.
+Bomber
+The remains of a military plane.
+Fighter
+Broken shovel.
+Someone broke this old shovel.
+Minigun
+An old weapon dismantled from the cabin of a bomber.
+A very old chair. The serial number is indecipherable.
+Chairs
+Very old chairs. Sitting on them to watch a movie would be excruciating.
+An interior object designed specifically for storing valuables.
+Safety deposit boxes
+Metal lockers for storing receipts and bills. They are now clogged with dust and debris.
+Controller
+A unique piece of power plant equipment.
+Water tank
+A makeshift water tank for storing water. Also acts as a water tower.
+A very old signpost. But it can still contain relevant information.
+An improvised well. You can't see the bottom.
+You don't notice anything remarkable about this cactus other than its ginormous size.
+This rusted old sign is swinging dangerously in the wind.
+An old dilapidated door leaning against the wall. It has probably come off its hinges.
+Shadow from archway.
+Raiders' belongings
+Miscellaneous broken items left behind by the raiders.
+Canvas
+A piece of old moldy cloth.
+Boards
+A few old boards left unattended.
+A stiff homemade chair. Wouldn't sit on it for long.
+Bowl
+Homemade wooden water tank. Contrary to expectations, does not leak.
+Potter's wheel
+A small machine for making pottery.
+Shelves
+As it turns out, these ordinary and familiar to you shelves are not so ordinary.
+Homemade wooden shelves for storing supplies. The shelves are empty.
+Homemade wooden shelves for storing supplies. The dampness has caused mold to form on them.
+These dilapidated shelves are no longer useful.
+Pottery
+Various types of pottery. Their future is still uncertain.
+Destroyed shelves.
+These shelves have been destroyed. But they can still be repaired.
+Bags
+Bags of spoiled supplies.
+Some hay left over from past harvests.
+Broken boards
+More debris left after a raid.
+These merchandise racks have been destroyed by time.
+Stacked bricks
+These bricks are stacked for shipping. But no one seems to want them now.
+Cult banner.
+This painting depicts a religious symbol.
+Sign
+This is the sign of the Sonora Express postal service.
+Map desk
+This table is handy for creating and studying modern maps.
+Hydrogenerator
+The upper part of some huge machine. Scary loud noises can be heard from inside.
 Аппаратура электростанции
 Изнутри этого ящика доносится методичный гул.
 Внутри этого ящика что-то тикает.
