@@ -561,142 +561,141 @@ Upon closer inspection, you realize that you should not bathe in this tub after 
 An oval mirror in a vintage frame.
 TV
 You have never seen a TV in action. You can only guess how it works.
-A moonshine machine.
+Moonshine machine
 This appears to be a wood-fired moonshiner.
 This still is ruined and cannot be restored.
 Bar
 This bar contains a collection of alcoholic beverages ready to be consumed.
-Motorcycles
-Ваш персональный двухколесный транспорт.
-Стойка
-Стойка, на которой установлена примитивная ЭВМ.
-Окно
-В этом окне вместо стекла установлена вощеная бумага.
-Эту большую металлическую дверь намертво заклинило изнутри.
-Большая металлическая дверь склада.
-Этот объект подозрительно похож на дверь.
-Стеллаж
-Вы видите металлические полки.
-Вещи
-Куча каких-то старых и никому не нужных вещей.
-Ящики
-Эти деревянные ящики разваливаются от ветра.
-Вы не находите ничего интересного в этих деревянных ящиках.
-У вас достаточно свободного времени, чтобы потратить его на изучение этого мусора.
-Ящик
-Деревянный ящик. Кажется, не в таком уж плохом состоянии.
-Простой деревянный ящик. В достаточно хорошем состоянии.
-Этот простой деревянный ящик развалился под собственным весом.
-Заколоченный деревянный ящик. Некоторые отдали бы жизнь, чтобы узнать, что внутри.
-Несколько надежных транспортировочных ящиков.
-Весьма надежный транспортировочный ящик.
-Поддоны
-Старые деревянные поддоны, рассыпающиеся от одного прикосновения.
-Ящик на поддоне
-Старый деревянный поддон с металлическим ящиком. Внутри ящика что-то вроде шлаков.
-Станок
-Это какой-то производственный станок. Больше о нем вам ничего не известно.
-Конвейер, уверенно идущий от станка к своей конечной цели.
-Детали
-Какие-то производственные детали.
-Бочка
-Старая бочка, изготовленная из стали.
-Ржавая железная бочка. Она пуста.
-Судя по гулкому звуку, эта бочка пуста.
-Бочки
-Судя по гулкому звуку, эти бочки пусты.
-На боку этой пустой металлической бочки яркой желтой краской нарисован значок радиоактивности.
-В этой бочке находится какая-то зеленая светящаяся гадость. Значок радиоактивности подсказывает, что это может быть.
-Радиоактивная дрянь
-Выглядит очень нехорошо. Если захотите нырнуть, советуем надеть свинцовые плавки.
-Выглядит не очень хорошо. Если захотите нырнуть, советуем надеть свинцовые плавки.
-Стандартная модель малого электрогенератора от компании Уоттс Электроникс.
-Самодельная электростанция на базе автомобильного двигателя.
-Мат
-Спортивный мат.
-Боксерская груша
-Это боксерская груша производства компании Силач (tm).
-Тренажер
-Это спортивный тренажер.
-Штанга
-Это спортивный тренажер для пресса.
-Мишень
-Эта мишень сама напрашивается на неприятности.
-Игральный стол
-Это игральный стол для игры в кости.
-Карточный стол
-Это стол для карточных игр.
-Стол с рулеткой
-Это старый игральный стол с рулеткой.
-Это игральный стол с рулеткой.
-Игральный автомат
-Это игральный автомат.
-Это поврежденный игральный автомат.
-Стена
-В этом месте из-под слоя пакости проступает кирпичная стена.
-Сток
-Из канализации идет какой-то отвратительный, мерзкий запах. Через какое-то время кажется, что пахнет не так уж и плохо.
-Вы едва замечаете какое-то движение за решеткой на люке. Вы видите маленькие красные глазки, наблюдающие за вами. Глаза крысы.
-Из канализации доносится звук булькающей воды. А также ужасное зловоние.
-Из канализации доносится звук булькающей воды. А также чудовищная вонь.
-Тяжелый ржавый канализационный люк.
-Символ
-Это символ Братства Стали. Выглядит эффектно.
-Эмблема
-Символ Братства. Шестеренки представляют его технические знания, меч - стремление защитить себя, а крылья - воспаряющую надежду.
-*Портал
-Волшебный портал в другое измерение.
-Если эта лодка и может куда-то плыть, то только на дно.
-*Разметка воды
-Вспомогательный объект для разметки водной поверхности.
-*Разметка плантации
-Вспомогательный объект для разметки растительных насаждений.
-*Разметка палатки
-Вспомогательный объект для разметки палаток и крупных тентов.
-*Разметка пещеры
-Вспомогательный объект для разметки пещер и подземных помещений.
-*Разметка коллектора
-Вспомогательный объект для разметки коллекторов и канализаций.
-Сети
-Череда кольев в воде с остатками рыболовной сети. Похоже, улова нет.
-Различный плавучий мусор, бережно собранный течением Калифорнийского залива.
-Без акваланга уже не определить, что это за груда металла, торчащая из воды.
-Буй
-Проржавевший буй, давно оторванный от груза и прибитый течением к берегу.
-Проржавевший указатель населенных пунктов. Из-за потеков ржавчины надпись не разобрать.
-Тень от дорожного указателя. Столь редкая в этих краях.
-Это автомобиль. А вернее его останки.
-Странное дерево, пораженное паразитом.
-Обыкновенная деревянная лестница. От сырости немного покрылась плесенью.
-Сломанная лестница
-Эта деревянная лестница окончательно обветшала. Взобраться по ней наверх невозможно.
-Эта лестница ведет в ратушу, но в данный момент она разрушена и завалена обломками. Вам их не разобрать.
-Эта лестница ведет на верхний этаж ратуши.
-Эта лестница ведет на первый этаж ратуши.
-К вашему удивлению это компьютер. И похоже, он давно не работает.
-Поврежденная метеостанция
-Это метеостанция для прогноза погоды. Она была умышленно повреждена.
-Метеостанция
-Это метеостанция для прогноза погоды. И она прекрасно справляется со своими задачами.
-Тело
-Это труп одного из ваших соплеменников.
-Неумело нарисованный на стене символ. Его следует изучить более внимательно.
-Буровая машина
-Тяжелый робот, оснащенный инструментами для бурильных работ.
-Эта гора камней образовалась после обрушения сводов шахты. Без инструментов на расчистку уйдет очень много сил и времени.
-Старболл
-Необычный игровой автомат давно ушедшей эпохи.
-Необычный игровой автомат давно ушедшей эпохи. Поврежден и ремонту не подлежит.
-Вход в шахту
-Бетонная арка открывает проход вглубь шахты.
-Эта тень уводит вглубь шахты.
-Лестница вниз
-Вход в подвал завален обломками после взрыва. Вы все равно там уже побывали.
-Плакат
-Какой-то старый плакат. Беглый осмотр ничего не дает.
-Караванная повозка, подготовленная к отправке очищенной урановой руды.
-Радиоаппаратура
-Эта радиоаппаратура повреждена и ремонту не подлежит.
+Motorcycle
+Your personal two-wheeled transport.
+Rack
+A rack on which a primitive computer is installed.
+Window
+This window has wax paper instead of glass.
+This large metal door is permanently jammed from the inside.
+A large metal warehouse door.
+This object looks suspiciously like a door.
+Shelves
+You see the metal shelves.
+Stuff
+A pile of old and unwanted stuff.
+Crates
+These wooden crates are falling apart in the wind.
+You don't find anything interesting in these wooden crates.
+You have enough free time to spend exploring this junk.
+Crate
+A wooden crate. Doesn't seem to be in that bad of a condition.
+A simple wooden crate. In good enough condition.
+This simple wooden crate collapsed under its own weight.
+A boarded-up wooden crate. Some would give their lives to know what's inside.
+A few sturdy shipping crates.
+A very sturdy shipping crate.
+Pallets
+Old wooden pallets crumbling at a touch.
+Box on a pallet
+An old wooden pallet with a metal crate. The crate has some sort of slag inside it.
+Machine
+This is some kind of manufacturing machine. You don't know anything else about it.
+A conveyor belt, stretching confidently from the machine to its final destination.
+Parts
+Some kind of manufacturing parts.
+Barrel
+An old barrel made of steel.
+A rusty iron barrel. It's empty.
+Judging by the rumbling sound, this barrel is empty.
+Barrels
+From the rumbling sound, these barrels are empty.
+On the side of this empty metal barrel, a bright yellow sign of radiation is painted.
+This barrel contains some green glowing stuff. The radiation sign tells you what it might be.
+Radioactive ooze.
+It looks really bad. If you want to dive in, you might want to wear lead swim trunks.
+It doesn't look very good. If you want to dive in, you might want to wear lead swim trunks.
+The standard model of a small power generator by Watts Electronics.
+A makeshift power generator based on a car engine.
+Mat
+A sports mat.
+Boxing bag
+This is a punching bag made by Strongman(tm).
+Gym equipment
+This is a gym apparatus.
+Barbell
+This is a piece of fitness equipment for your abs.
+Target
+This target is asking for trouble.
+Dice table
+This is a dice table.
+Card table
+This is a table for card games.
+A table with a roulette wheel.
+This is an old roulette table.
+This is a playing table with roulette.
+Slot machine
+This is a slot machine.
+This is a damaged slot machine.
+Wall
+This is where a brick wall emerges from beneath a layer of nastiness.
+Drain
+A disgusting, foul stench is coming from the sewer. But after a while, it doesn't seem to smell so You almost barely notice any movement behind the grate on the hatch. You see little red eyes watching you. The eyes of a rat.
+The sound of gurgling water is coming from the sewer. There is also a terrible stench.
+FrThe sound of gurgling water is coming from the sewer. There is also a horrible stench.
+A heavy, rusty sewer manhole.
+Symbol
+This is the symbol of the Brotherhood of Steel. It looks spectacular.
+Emblem
+The symbol of the Brotherhood. The gears represent its technical knowledge, the sword represents its desire to defend itself, and the wings represent soaring hope.
+*Portal
+A magical portal to another dimension.
+If this boat can sail anywhere, it's to the bottom.
+*Water marking
+Auxiliary object for marking the water surface.
+*Layout of a plantation
+Auxiliary object for marking plantations.
+*Tent marking
+Auxiliary object for marking tents and large tents.
+*Cave marking
+Auxiliary object for marking caves and underground rooms.
+*Labeling a sewer
+Auxiliary object for marking sewers and drains.
+Nets
+A series of stakes in the water with the remains of a fishing net. Doesn't seem to have a catch.
+Various floating debris carefully collected by the current of the Gulf of California.
+Without a scuba gear, you can no longer tell what is this pile of metal sticking out of the water.
+Buoy
+A rusted buoy, long ago detached from its cargo and nailed to the shore by the current.
+A rusted out sign for populated places. Rust stains make inscription indistinguishable.
+Shadow from the road sign. A rarity in these parts.
+It's a car. Or rather its remains.
+A strange tree, infected with a parasite.
+An ordinary wooden staircase. It's a little moldy from the dampness.
+Broken ladder
+This wooden staircase is completely dilapidated. It's impossible to climb it.
+This staircase leads to the town hall, but it's ruined and full of debris at the moment. You cannot clear them.
+This staircase leads to the top floor of the town hall.
+This staircase leads to the first floor of the town hall.
+To your surprise, it's a computer. And it looks like it stopped working a long time ago.
+Damaged weather station
+This is the weather station for the weather forecast. It was intentionally damaged.
+Weather station
+This is a weather station for weather forecasting. And it is doing just fine.
+Body
+This is the corpse of one of your fellow villagers.
+An ineptly drawn symbol on the wall. It should be studied more closely.
+Drilling Machine
+A heavy robot equipped for drilling.
+This mountain of rocks was formed after the collapse of the mine arches. Without tools, it would take a lot of effort and time to remove it.
+Starball
+An unusual slot machine from a bygone era.
+An unusual slot machine from a bygone era. Damaged and beyond repair.
+Entrance to the mine
+A concrete archway leads deep into the mine.
+This shadow leads into the depths of the mine.
+Ladder down
+The entrance to the basement is littered with debris from the explosion. You've already been there anyway.
+Poster
+Some old poster. A quick look doesn't reveal anything.
+Caravan wagon prepared for shipment of purified uranium ore.
+Radio equipment
+This radio equipment is damaged beyond repair.
 Устройство для приема, обработки и передачи радиосигнала. Одна из уцелевших технологий Старого Мира.
 Окровавленный стол
 Этот стол густо залит спекшейся кровью.
