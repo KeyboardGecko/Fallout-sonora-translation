@@ -111,7 +111,7 @@ Road environment generator (car debris on the road, car, road cones).
 Wasteland environment generator (cacti, grass, trees, animal bones).
 Generator of enemies in caves on random encounters.
 -reserved-
-*Source of light.
+*Source of light
 Cell for illumination. Not displayed in Pip-Boy.
 An advertisement for the Mr. Handy series of domestic robots. One can only dream of such a thing.
 The poster offers a ride from Los Angeles to Chicago on a high-speed train in a matter of hours. You'll hardly ever be able to do that.
@@ -325,250 +325,248 @@ This table is very badly damaged.
 This table is in very bad condition.
 This metal table has not been very well cared for. The rust has spread very badly over its surface.
 It would have been a nice metal table if not for the rust.
-Столик
-Если бы этот маленький столик имел разум, у него мог бы развиться комплекс неполноценности.
-Кресло
-Очень удобное кресло. Жаль, что у вас нет времени присесть и отдохнуть.
-Это стандартное кресло. Оно снабжено колесиками, чтобы на нем можно было кататься по офису.
-Это кресло. Судя по виду, очень удобное.
-Это кресло в ужасном состоянии.
-На таком ужасном кресле отдохнуть не получится.
-Это кресло больше нельзя использовать по его прямому назначению.
-Экран
-Компьютерный экран, показывающий разнообразную информацию.
-Компьютер
-Этот компьютер находится в рабочем состоянии и в настоящий момент занят какими-то вычислениями.
-Этот компьютер в рабочем состоянии, но прямо сейчас он выключен.
-Этот компьютер еще может функционировать.
-Этот компьютер не работает. Вы не понимаете, почему.
-Этот компьютер физически сломан. И ожидать ремонта не стоит.
-Консоль
-Это обычная консоль для ввода данных.
-Если вам приходилось видеть хотя бы один монитор, считайте, что видели их все.
-Экран просмотра показывает разнообразные данные.
-Монитор продолжает работать, но почему-то ничего не показывает на экране.
-Этот монитор не работает. Совсем.
-Экран этого монитора разбит.
-Мониторы
-Три монитора, экраны которых показывают разнообразные данные.
-Эти мониторы сломаны и не функционируют.
-Экраны этих мониторов полностью уничтожены.
-СВМ
-Система видеомониторов. Отображает сразу целый поток информации.
-Система видеомониторов. Почему-то не работает.
-Система видеомониторов. Все эти мониторы разбиты вдребезги.
-Голографический генератор
-Широкоформатный проигрыватель компании THT. Последние фильмы для него выходили больше 90 лет назад.
-Широкоформатный проигрыватель компании THT в ужасном состоянии. Последние фильмы для него выходили больше 90 лет назад.
-Большой черно-белый экран. Смотреть на нем нечего.
-Большой черно-белый экран. Раньше он был намного привлекательнее, чем сейчас.
-Синтезатор одежды
-Стандартный синтезатор одежды для убежищ Волт-Тек. Все еще в рабочем состоянии, что не может не радовать.
-Испорченный синтезатор одежды для убежищ Волт-Тек. Хотя отдельные детали еще целы, едва ли его можно восстановить.
-Пищевой процессор
-Стандартный пищевой процессор для убежищ Волт-Тек. Учитывая местные проблемы с пищей эта техника кажется чуть ли не божественной.
-Испорченный пищевой процессор для убежищ Волт-Тек. Теперь он не сможет даже поджарить тосты.
-Станция переработки отходов
-Это оборудование способно переработать отходы убежища в чистую воду и пыль.
-Это оборудование должно перерабатывать отходы убежища, но теперь оно само стало одним из элементов местного мусора.
-Станция очистки воздуха
-Это оборудование очищает старый воздух, обеспечивая свежим весь комплекс.
-Это оборудование очищает старый воздух, обеспечивая свежим весь комплекс. Конкретно эта система сломана.
-Водяной насос
-Это оборудование качает воду из подземных водоносных горизонтов и фильтрует ее от примесей.
-Танк
-Огромная емкость для хранения чистой воды. Очень нужное оборудование.
-Реактор
-Ядерный реактор, обеспечивающий энергией весь комплекс.
-Генератор
-Резервный электрогенератор от компании Уоттс Электроникс. Стандартная модель.
-Интерком
-Средство удаленной связи. Работает исключительно в пределах убежища.
-Динамик
-Часть системы общего оповещения.
-План убежища
-Чертеж изображает помещения на всех уровнях убежища.
-Силовое поле
-Это мощное энергетическое поле. Через него невозможно пройти.
-Пар
-Фонарь
-Фонарь сигнализации.
-Фонарь сигнализации
-Переключатель
-Этот переключатель способен что-то включить. Или выключить.
-Жидкостный резервуар
-Медицинский или экспериментальный аппарат. Похоже, в нем может содержаться человеческое или даже более крупное тело.
-Медицинский или экспериментальный аппарат. Это оборудование сломано и ремонту не подлежит.
-Робо-приемник
-Это отсек для подзарядки роботов.
-Это оборудование имеет какое-то отношение к обслуживанию роботов. Судя по виду, ничего интересного.
-Лазерная ловушка
-Едва заметный лазерный луч.
-Блок усилителя
-Эта аппаратура усиливает радиосигнал перед тем, как отправить его по фидерной системе на антенну.
-Суперкомпьютер
-Это первый суперкомпьютер, который вам довелось увидеть за всю свою жизнь. Не исключено, что он же станет последним.
-Платформа
-Эта платформа удерживает суперкомпьютер над охладителями и другим вспомогательным оборудованием.
-На вид вполне современный компьютер.
-Высокотехнологичный компьютер, использующий современные катушечные устройства для хранения информации вместо устаревших перфокарт.
-Вы видите компьютерный монитор.
-Несколько неопознанных проводов, торчащих из стены.
-Винтокрыл
-Древний летательный аппарат, восстановленный механиками Братства Стали.
-Лестница
-Старая, несколько расшатанная лестница. Похоже, она вряд ли сможет выдержать ваш вес.
-Веревка
-Это прочная веревка. По ней можно взобраться наверх.
-Эта лестница ведет на этаж выше.
-Эта лестница ведет на этаж выше, но проход по ней загорожен. Едва ли вам вообще туда нужно.
-Эта лестница ведет на этаж ниже.
-Алтарь
-Это кажется обычным алтарем. Если не считать глухой звук от ударов ногами.
-Эта винтовая лестница ведет на этаж выше.
-Эта винтовая лестница ведет на этаж ниже.
-Эта лестница ведет вниз, в темноту.
-Лаз
-По какой-то причине у этого спуска отсутствует лестница. Без специального снаряжения спуститься вниз не получится.
-Вглубь этой дыры спускается прочная веревка.
-Эта узкая лестница ведет вниз, в темноту.
-Люк
-Похоже на самодельный люк.
-Похоже на вход в канализационную систему.
-Крышка люка
-Тяжелая крышка, прикрывающая канализационный люк.
-Дыра
-Спуск на нижний уровень, из которого торчит ржавая лестница.
-В этом месте земля обвалилась, в результате образовался спуск на нижний уровень.
-Знак "Стоп"
-Красный знак, на котором крупными печатными буквами написано "СТОП". Вы не имеете ни малейшего представления, что это значит.
-Красный знак, на котором крупными печатными буквами написано "СТОП". Впоследствии третьим лицом на знак была добавлена большая дырка от пули.
-Знак "Уступи дорогу"
-Когда-то этот знак контролировал движение на улице.
-Знак сильно выцвел, но вы можете разобрать надпись "Уступи дорогу".
-Дорожный знак
-Этот знак когда-то обескураживал изобилием информации, но теперь на нем можно разобрать лишь ограничитель скорости.
-Знак "Нет парковки"
-Когда-то этот знак запрещал остановку в этом месте. Теперь парковаться здесь некому.
-Указатель
-Этот знак мог бы указать, на какой улице вы находитесь. Но буквы на нем уже давно неразличимы.
-Светофор
-Это древнее устройство управления автомобильным движением.
-Паркомат
-Один из многочисленных предметов прошлого. Уже никто не сможет сказать, что это и зачем здесь стоит.
-Уличный фонарь
-Фонарь в старом стиле.
-Фонарь в старом стиле. Конкретно этот фонарь разбит.
-Этот уличный фонарь должен давать освещение после наступления ночи.
-Этот уличный фонарь должен давать освещение после наступления ночи, но он в любом случае сломан.
-Гидрант
-Это пожарный кран. Он был бы полезен при тушении пожара, но скорее всего он не работает.
-Почтовый ящик
-Почтовый ящик пуст. У вас такое чувство, что сюда давно не поступала почта.
-Газетный автомат
-Этот газетный автомат наверняка пуст.
-Ограждение
-Ремонтное ограждение с надписью "Дорога закрыта".
-Ремонтное ограждение.
-Заградительный блок
-Блок из бетона и арматуры. Похоже на обычный блок, но вы присматриваетесь к нему на всякий случай.
-Блок из бетона и арматуры. Своим устрашающим видом он отпугивает любого, кто к нему приблизится.
-Блок из бетона и арматуры. Вам он не нравится.
-Заграждение
-Деревянное заграждение. Мешается под ногами, как и полагается всякому нормальному заграждению.
-Погрузчик
-Этот грузоподъемник не работает.
-Обычный уличный мусор. Всего понемногу.
-Куча осколков и прочего мусора.
-Труба, переломанная пополам. Похоже, она ржавела, пока не сломалась под собственным весом.
-Шина
-Старая покрышка, пролежавшая здесь почти сотню лет.
-Сложенные шины
-Древние резиновые шины. За десятилетия они слежались под собственным весом.
-Шины
-Древние резиновые шины. Резина вулканизировалась и уплотнилась из-за жары.
-Кирпичи
-Кто-то наложил здесь кирпичей. Следите под ноги!
-Кто-то выкинул здесь кирпичи. Или хотел построить домик.
-Кто-то наложил здесь кирпичей. Это явно сделано с каким-то умыслом.
-Никому не нужный мусор.
-Близкий осмотр показывает, что дверь остается дверью.
-Стальные прутья, защищающие окно от вторжения извне.
-Ставни
-Стальные ставни, защищающие окно.
-Заколоченное окно
-Это окно напрочь заколочено досками.
-Искусно сделанная деревянная дверь в отличном состоянии.
-Ничем не примечательная дверь.
-Дверь со стеклянным окошком. Стекло покрыто грязью настолько, что через него ничего не видно.
-Эта дверь укреплена металлическими узорами. Вполне в сельском духе.
-Эта мощная решетка выглядит как вполне на своем месте.
-Очень прочная дверь. Устоит даже перед взрывом.
-Калитка
-Калитка остается калиткой, сколько бы вы на нее не смотрели.
-Старая деревянная дверь. Пожалуй, это все, что о ней можно сказать.
-Эта дверь (вот неожиданность) обеспечивает вход и выход из этого здания.
-Деревянная дверь. В относительно хорошем состоянии.
-Настенная лампа
-Похоже, эта лампа все еще в рабочем состоянии.
-Сломанная лампа. Неудивительно, что она не работает.
-Старый матрас
-Старый потрепанный матрас. Вы, кажется, видите в нем крошечных паразитов, похожих на жучков.
-Даже если вы решите в одиночку отдохнуть на этом матрасе, у вас явно будет компания.
-Импровизированная постель. Материал использовался из самых разных источников.
-У этой постели бывали дни и получше (а возможно, и ночи).
-После тщательного осмотра вы заключаете, что простыни не меняли уже очень и очень давно.
-На этом потрепанном спальном устройстве вы видите пару пятен сомнительного происхождения.
-Эта кровать довольно сильно потрепана. Похоже, что-то заползло под матрас и там благополучно сдохло.
-На вид весьма удобная кровать.
-Этот матрас в ужасном состоянии. Даже крысы не стали бы спать ни на нем, ни в нем.
-Матрас, у которого бывали и лучшие времена, чем сегодня.
-Этот мусор, видимо, когда-то был матрасом, пока время не уничтожило его.
-Груда гнилого старого дерева. Ее стоимость равна, скажем так, нулю.
-Куча дров, в некоторые из которых вбиты старые ржавые гвозди, абсолютно бесполезные.
-Коробки
-Куча старых картонных коробок. Сложно поверить, что они смогли сохраниться за такой большой срок.
-Автомат с ядер-колой
-Реклама на борту этого автомата изображает популярный напиток.
-Достаточно обычный деревянный стол.
-Стол отличного качества. Сделан вручную, но выглядит гораздо лучше, чем любой стол, который вам когда-либо приходилось видеть.
-Стол, изготовленный из дерева.
-Деревянный столик в довольно неплохом состоянии.
-Деревянный столик в более-менее приличном состоянии.
-Деревянный столик в довольно среднем, если не сказать плохом, состоянии.
-Деревянный стол с пластиковой поверхностью, которая уже давно разбита.
-Деревянный стол, выкрашенный в отвратительный зеленый цвет. Восстановлению не подлежит.
-Похоже на старый кофейный столик, довольно низкий, видимо, для очень маленьких мутантов.
-Стул
-На вид очень неплохой стул.
-Удобненькое кресло.
-Судя по виду, у этого стула были времена и получше.
-Этот кресло покрыто грязью и плесенью. Как вы можете догадаться, от него еще и несет.
-Это кресло разваливается. Прямо на глазах.
-Если бы кто-нибудь заплатил вам много денег, а у вас был бы стальной зад, можно было бы обдумать возможность посидеть на этом стуле.
-Похоже на старый офисный стул, который спустя все эти годы находится в хорошем состоянии.
-Это старый офисный стул. Возможно, он даже сможет выдержать человеческий вес.
-У этого офисного стула бывали времена и получше. В настоящий момент он представляет собой мусор.
-Похоже на стул, который можно увидеть в похоронном бюро. В гробу.
-Сиденье
-Старый гниющий стул, сделанный из древнего автомобильного сиденья.
-Вонючий старый стул, который когда-то был автомобильным сиденьем. Пружины потеряли свою упругость.
-Старый, гниющий и смердящий стул, стоящий на кирпичах для устойчивости. Судя по виду, довольно неудобный.
-Диван
-Очень неудобное, судя по виду, устройство для сидения, известное под названием "диван".
-Функционирующая кухонная плита, работающая на дровах.
-Ванна
-Эта ванна сломана и покрыта трещинами.
-При ближайшем рассмотрении вы понимаете, что мыться в этой ванне все же не стоит.
-Овальное зеркало в винтажной раме.
-Телевизор
-Вы никогда не видели телевизор в действии. Остается только гадать, как он работает.
-Самогонный аппарат
-Судя по всему, это самогонный аппарат, работающий на дровах.
-Этот самогонный аппарат разрушен и восстановлению не подлежит.
-Бар
-В этом баре находится коллекция алкогольных напитков, готовых к употреблению.
-Байк
+Table
+If this little table had a mind, it might have developed an inferiority complex.
+Chair
+A very comfortable chair. Too bad you don't have time to sit down and relax.
+This is a standard chair. It has wheels so you can roll it around the office.
+A chair. Looks comfortable.
+This chair is in terrible condition.
+You can't rest on such a terrible chair.
+This chair can no longer be used for its intended purpose.
+Screen
+A computer screen showing a variety of information.
+Computer
+This computer is in working order and is currently doing some sort of computation.
+This computer is in working order, but right now it is turned off.
+This computer may still be functioning.
+This computer is not functioning. You can't understand why.
+This computer is completely broken. Don't expect it to be repaired.
+Console
+This is a console for data entry.
+If you have seen at least one monitor, consider that you have seen them all.
+The screen shows a variety of data.
+The monitor is working, but for some reason it's screen does not show anything.
+This monitor doesn't work. At all.
+This monitor's screen is broken.
+Monitors
+Three monitors with screens showing a variety of data.
+These monitors are broken and not functioning.
+The screens of these monitors are completely destroyed.
+CCTV
+A surveillance system. Displays a whole stream of information at once.
+This CCTV doesn't work for some reason.
+All monitors of this CCTV system are smashed to pieces.
+Holographic generator.
+A TNT widescreen player. The last movies for it were released more than 90 years ago.
+This TNT widescreen player is in terrible condition. Last movie for it was released more than 90 years ago.
+Large black and white screen. Nothing to see on it.
+Big black and white screen. It used to be much more attractive than it is now.
+Clothing Synthesizer.
+The standard clothing synthesizer for the Vault-Tec vaults. Still in working order, which somehow makes you feel good.
+The ruined Vault-Tec clothing synthesizer. Although the individual parts are still intact, it can hardly be restored.
+Food Processor.
+A standard food processor for the Vault-Tec vaults. Given the local food problems this technique seems almost divine.
+This Vault-Tec food processor is corrupted. Now it can't even make toast.
+Recycling station
+This equipment is capable of recycling waste into clean water and dust.
+This equipment was supposed to recycle waste, but now it has become part of the local garbage.
+Air Purification Station.
+This equipment provides fresh air for the entire complex.
+This equipment provides fresh air for the entire complex. This particular system is broken.
+Water Pump
+This equipment pumps water from underground sources and filters it from impurities.
+Tank
+This huge tank is used for storing clean water. A very important equipment.
+Reactor
+This nuclear reactor provides energy for the entire complex.
+Generator
+Backup power generator by Watts Electronics. Standard model.
+Intercom
+Means of remote communication. Works exclusively within a vault.
+Speaker
+Part of a public notification system.
+Vault plan
+This drawing depicts the rooms on all levels of the shelter.
+Force field
+A powerful energy field. It's impossible to get through.
+Steam
+Lantern
+Signal light
+Signal light
+Switch
+This switch is capable of turning something on. Or turning something off.
+Reservoir
+A medical or experimental device. Looks like it may contain a human body, or even something larger.
+Some kind of medical or experimental apparatus. This equipment is broken and cannot be repaired.
+Robo-receiver
+This is a compartment for recharging robots.
+This equipment has something to do with robots and maintenance. Nothing interesting.
+Laser trap
+A barely visible laser beam.
+Amplifier unit
+This equipment amplifies the radio signal before sending it through the feeder system to the antenna.
+Supercomputer
+The first supercomputer you've ever seen. It is also possible that it will be your last.
+Platform
+This platform maintains the supercomputer on top of the cooling system and other auxiliary equipment.
+Looks like quite a modern computer.
+A high-tech computer that uses modern reel-to-reel storage devices instead of outdated punch cards.
+You see a computer monitor.
+Several unidentified wires are sticking out of the wall.
+Rotorcraft
+An ancient flying machine restored by Brotherhood of Steel mechanics.
+Ladder
+An old, somewhat rickety ladder. Doesn't look like it can hold your weight.
+Rope
+This is a sturdy rope. You can use it to climb up to the top.
+This ladder leads to the floor above.
+This ladder leads to the floor above, but the way is blocked. You don't really want to go up there.
+These stairs lead to the floor below.
+Altar
+This seems like a normal altar. If you don't count the thudding sound when kicked.
+This spiral staircase leads to the floor above.
+This spiral staircase leads to the floor below.
+This staircase leads down into the darkness.
+Gully
+For some reason this descent does not have a ladder. You can't go down without special equipment.
+There is a strong rope at the bottom of this hole.
+This narrow ladder leads down into the darkness.
+Hatch
+Looks like a makeshift hatch.
+Looks like the entrance to a sewer system.
+Manhole cover.
+A heavy lid covering a sewer manhole.
+Hole
+A descent to the lower level, with a rusty ladder sticking out of it.
+The ground has collapsed here, resulting in a descent to the lower level.
+Stop sign
+A red sign with "STOP" written on it in large block letters. You have no idea what it means.
+A red sign that says "STOP" in large block letters. A large bullet hole was subsequently added to the sign by a third party.
+"Make way" sign
+This sign once controlled traffic on the street.
+Sign
+This sign was once disconcerting in its abundance of information, but now all you can make out is the speed limit.
+"No Parking" sign
+This sign used to prohibit stopping in this spot. Now there is no one to park here.
+Signpost
+The sign would have told you what street you were on. But the letters on it have long been indistinguishable.
+Traffic light
+An ancient traffic control device.
+Parking meter
+One of the many relics of the past. No one can tell you what it is or why it's there.
+Street lamp
+Old-fashioned light
+An old-fashioned lantern. This particular one is broken.
+This street lamp is supposed to give light after nightfall.
+This street lamp is supposed to give light after nightfall, but it is completely broken.
+Hydrant
+This is a fire hydrant. It would be useful in putting out a fire, but it probably doesn't work.
+Mailbox
+The mailbox is empty. You get the feeling that no mail has come in here in a long time.
+Newspaper machine
+This newspaper machine is probably empty.
+Fence
+A repair fence with a sign that says "Road Closed."
+Repair fence
+Block barrier
+A block of concrete and rebar. Looks like a regular block, but you look out for it just in case.
+A block of concrete and rebar. Its intimidating appearance scares away anyone who comes near it.
+A block of concrete and rebar. You don't like it.
+Fence
+Wooden barrier. Getting in the way, as any normal fence should.
+Forklift
+This forklift doesn't work.
+Usual street trash. A little bit of everything.
+Pile of splinters and other debris.
+This pipe is broken in half. Looks like it was rusting until it broke under its own weight.
+Tire
+An old tire that had been here for almost a hundred years.
+Stacked tires
+Ancient rubber tires. Over the decades, they have folded under their own weight.
+Tires
+Ancient rubber tires. The rubber has vulcanized and compacted because of the heat.
+Bricks
+Someone put bricks here. Watch your step!
+Somebody laid out some bricks here. Maybe he wanted to build a house.
+Someone put bricks here. It's obviously done with some kind of intent.
+Nobody's trash
+A close inspection reveals that the door remains a door.
+Steel bars protecting the window from outside intrusion.
+Shutters
+Steel shutters protecting the window.
+Boarded up window
+This window is completely boarded up.
+An intricately crafted wooden door in mint condition.
+A door with a glass window. The glass is so dirty that you can't see anything through it.
+This door is reinforced with metal ornaments. It's quite rustic.
+This strong grid looks like it's right where it belongs.
+It's a very sturdy door. Resists even an explosion.
+Wicket
+A wicket door remains a wicket door no matter how hard you look at it.
+The old wooden door. That's about all you can say about it.
+This door (what a twist!) provides the entrance and exit to and from this building.
+A wooden door. In relatively good condition.
+Wall lamp
+Looks like this lamp is still in working order.
+Broken lamp. No wonder it doesn't work.
+Old mattress
+An old shabby mattress. You can maybe notice tiny bug-like vermin in it.
+Even if you decide to rest alone on this mattress, you would clearly have company.
+A makeshift bed. A variety of resources have been used for the material.
+This bed has had better days (and perhaps even nights).
+Upon careful inspection, you conclude that the sheets haven't been changed in a very, very long time.
+You see a couple of stains of dubious origin on this shabby sleeping device.
+This bed is pretty shabby. It looks like something crawled under the mattress and died there safely.
+It looks like a very comfortable bed.
+This mattress is in terrible condition. Not even rats would sleep on it (or in it).
+A mattress that had seen better days than today.
+This trash must have once been a mattress until time destroyed it.
+A pile of rotting old wood. Its value is, shall we say, zero.
+A pile of firewood, some of which has old rusty nails hammered into it. Totally useless.
+Boxes
+A pile of old cardboard boxes. It's hard to believe they've been able to survive this long.
+A Nuka-Cola machine.
+The advertising on the side of this vending machine depicts a popular drink.
+A fairly plain wooden table.
+The table is of excellent quality. It is handmade, but looks much better than any table you have ever seen.
+A table made of wood.
+Wooden table in pretty good condition.
+Wooden table in more or less decent condition.
+Wooden table in pretty average, if not bad, condition.
+Wooden table with a plastic top that has been broken for a long time.
+Wooden table painted a disgusting green color. Cannot be restored.
+Looks like an old coffee table. It is rather low, apparently for extremely small mutants.
+Chair
+Looks like a very nice chair.
+A comfy chair.
+This chair had definitely seen better days.
+This chair is covered in dirt and mold. As you can guess, it also smells.
+This chair is falling apart. Right in front of my eyes.
+If someone paid you a lot of money and you had a butt of steel, you might consider sitting in this chair.
+It looks like an old office chair. After all these years, it is still in good condition.
+It's an old office chair. It might even be able to hold a man's weight.
+This office chair had better days. At the moment, it is just trash.
+It looks like a chair you might see in a funeral home. In a coffin.
+Seat
+An old rotting chair made from an ancient car seat.
+A stinky old chair that was once a car seat. The springs have lost their elasticity.
+An old, rotting and stinking chair standing on bricks for stability. Doesn't look comfortable at all.
+Sofa
+A very uncomfortable-looking seating device known as a "couch."
+A functioning wood-fired kitchen stove.
+Bathtub
+This tub is broken and cracked.
+Upon closer inspection, you realize that you should not bathe in this tub after all.
+An oval mirror in a vintage frame.
+TV
+You have never seen a TV in action. You can only guess how it works.
+A moonshine machine.
+This appears to be a wood-fired moonshiner.
+This still is ruined and cannot be restored.
+Bar
+This bar contains a collection of alcoholic beverages ready to be consumed.
+Motorcycles
 Ваш персональный двухколесный транспорт.
 Стойка
 Стойка, на которой установлена примитивная ЭВМ.
