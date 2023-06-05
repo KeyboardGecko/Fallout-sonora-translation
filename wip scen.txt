@@ -275,56 +275,56 @@ The standard Vault-Tech ventilation system.
 Very little fresh air comes from this hood.
 A standard Vault-Tec ventilation system. This system is in terrible condition.
 This hood is badly damaged and cannot be repaired.
-Эта вытяжка совсем не работает.
-Практически уничтоженная вентиляционная система.
-Трубы
-Какие-то трубы. Тщательно изучив их, вы приходите к выводу, что трубы и есть трубы.
-Оборудование
-Какое-то важное оборудование.
-Медицинская койка
-Удобная и чистая медицинская койка. Внутри размещается диагностическая система для отслеживания состояния больного.
-Монитор
-Этот монитор связан с медицинской койкой и предназначен для отображения состояния больного.
-Операционный стол
-Автоматизированный стол для проведения операций.
-Автоматизированный стол для проведения операций. Им давно не пользовались. Возможно, он уже не функционирует.
-Автодок
-Этот автодок разработан для диагностики и излечения болезней.
-Зеркало
-Какое-то время вы смотрите на свое отражение в зеркале.
-Разбитое зеркало
-Это зеркало разбито и восстановлению не подлежит.
-Раковина
-Полностью функционирующая раковина. К тому же чистая.
-Эта раковина в идеальном состоянии.
-Фарфоровая раковина, которая давно уже потеряла свою способность функционировать.
-Эта раковина не функционирует. Об этом вам говорит большая трещина прямо посередине.
-Унитаз
-Если бы у вас был фетиш на унитазы, конкретно этот показался бы вам вполне симпатичным.
-Этот унитаз очень чистый. И к тому же рабочий. Это вызывает у вас изумление.
-Из-за острых краев сиденья на этом унитазе очень неудобно сидеть.
-Этот унитаз сломан, и его явно не рекомендуется использовать женщинам.
-Писсуар
-Этот писсуар в идеальном состоянии. Вы видите такое впервые в жизни.
-Насколько бы это не было удивительным, но этот писсуар все еще функционирует.
-Это обычный писсуар. Вопреки назначению писсуара в нем лежит какашка.
-Это просто писсуар. Впрочем, на Вилле такого не было.
-Душ
-Вполне приличная душевая кабинка.
-Эта душевая кабинка имеет весьма неприличный вид. Мыться здесь будет неприятно.
-Кровать
-Стандартная для убежищ Волт-Тек двуспальная кровать. Судя по виду, очень удобная.
-Стандартная для убежищ Волт-Тек кровать. Судя по виду, очень удобная.
-Стандартная для убежищ Волт-Тек кровать. Точнее, то, что от нее осталось.
-Стол
-Это стол. До того, как были изобретены столы, людям приходилось держать все свои вещи на полу.
-Определенно, это стол.
-Симпатичный металлический стол.
-В этом столе нет ничего необычного, кроме того, что он почти совсем развалился.
-Этот стол очень сильно поврежден.
-Этот стол в очень плохом состоянии.
-За этим металлическим столом не очень хорошо ухаживали. Ржавчина сильно распространилась по его поверхности.
-Неплохой был бы металлический стол, если бы не ржавчина.
+This vent is completely out of order.
+Practically destroyed ventilation system.
+Pipes
+Some pipes. After carefully examining them, you come to the conclusion that pipes are pipes.
+Equipment
+Some important equipment.
+Medical bed
+A comfortable and clean medical bed. A diagnostic system is placed inside to monitor the patient's condition.
+Monitor
+This monitor is connected to the medical bed and is designed to display the patient's condition.
+Operating table
+Automated operating table.
+Automated operating table. It has not been used in a long time. It may no longer be functional.
+Autodoc
+This autodoc is designed to diagnose and cure illnesses.
+Mirror
+You spend some time looking at your reflection in the mirror.
+Broken mirror
+This mirror is broken and cannot be repaired.
+Sink
+A fully functioning sink. Plus, it's clean.
+This sink is in perfect condition.
+A porcelain sink that has long since lost its ability to function.
+This sink is non-functional. A big crack right in the middle tells you that.
+Toilet
+If you had a fetish for toilets, this particular one would seem quite nice.
+This toilet is very clean. And it works. It's quite astonishing.
+The sharp edges of the seat make this toilet very uncomfortable to sit on.
+This toilet is broken and clearly not recommended for women to use.
+Urinal
+This urinal is in perfect condition. This is the first time you've ever seen one of these.
+As amazing as it is, this urinal is also still functional.
+It's a regular urinal. Contrary to the purpose of the urinal, there is poop in it.
+It's just a urinal. There was no such thing in the Villa, though.
+Shower
+A pretty decent shower stall.
+This shower cubicle has a very indecent look. It is very unpleasant to bathe in.
+Bed
+A standard Vault-Tec shelter double bed. From the looks of it, very comfortable.
+A standard Vault-Tec shelter bed. From the looks of it, very comfortable.
+A standard Vault-Tec shelter bed. Or rather, what's left of it.
+Table
+This is a table. Before tables were invented, people had to keep all their stuff on the floor.
+It's definitely a table.
+It's a nice metal table.
+There's nothing unusual about this table, except that it's almost completely wrecked.
+This table is very badly damaged.
+This table is in very bad condition.
+This metal table has not been very well cared for. The rust has spread very badly over its surface.
+It would have been a nice metal table if not for the rust.
 Столик
 Если бы этот маленький столик имел разум, у него мог бы развиться комплекс неполноценности.
 Кресло
