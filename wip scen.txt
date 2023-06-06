@@ -897,523 +897,523 @@ Map desk
 This table is handy for creating and studying modern maps.
 Hydrogenerator
 The upper part of some huge machine. Scary loud noises can be heard from inside.
-Аппаратура электростанции
-Изнутри этого ящика доносится методичный гул.
-Внутри этого ящика что-то тикает.
-Уйдет целая жизнь, чтобы изучить все эти циферблаты.
-Пара труб, идущих из ниоткуда в никуда. Назначение неизвестно.
-Вход на базу
-Укрепленная самодельная дверь, ведущая в надстройку на дамбе.
-Стена дамбы
-Жестяная стена
-Обрыв
-Этот крутой обрыв ведет прямо в грязные воды реки Колорадо.
-Эта огромная опора удерживает какое-то оборудование над землей.
-Эта аппаратура служит для усиления радиосигнала. Но половина блоков в ней не работает.
-Причал
-Прогнивший деревянный причал.
-Паромный механизм
-Этот механизм запускает систему движения парома. Для вращения нужен рычаг.
-Канатный паром
-Самодельная деревянная платформа. Приводится в движение береговым механизмом с помощью прочного троса.
-Аппаратура ретранслятора
-Оборудование для приема и передачи радиосигнала. Установлено здесь недавно.
-Сломанная аппаратура
-Когда-то это было оборудование для приема и передачи радиосигнала. Теперь же гора мусора.
-Метка территории
-Ничем не примечательное сооружение. Отсюда будет удобно изучать местность.
-Ветхая стена
-Эта стена помнит дни лучше. Кажется, что она рухнет от одного удара молотом.
-Перекрашенный дорожный указатель с надписью "Тюрьма".
-Перекрашенный дорожный указатель с надписью "Шахта".
-Старая двустворочная дверь с иллюминаторами и скрипучими петлями.
-Автодом
-Практически целый дом на колесах.
-Емкость с радиоактивным топливом.
-Противоударное ограждение из прочной стали.
-Пища
-Куски сырого мяса, подвешенные над огнем для копчения.
-Проржавевший дорожный указатель с едва различимыми надписями.
-Вывеска бара
-Уцелевшая вывеска какого-то древнего бара.
-Предупреждение
-Древний указатель с какими-то надписями. На них стоит взглянуть поближе.
-На этом указателе написано "Дорога закрыта".
-Памятная плита
-Кусок отшлифованного камня с металлической пластиной, на которой увековечен текст.
-Горшок
-Опрокинутый горшок с перезревшими плодами.
-Сушилка
-Самодельная сушилка для сена.
-Старая деревянная лестница. Опасно скрипит под ногами.
-Эта лестница ведет на другой этаж.
-Контрольная панель
-Пульт управления электростанцией.
-Подъемник
-Подъемный механизм для затворов дамбы.
-Грузовая тележка
-Старая платформа для перевозки грузов.
-Судя по звуку этот контейнер пуст.
-Грибница
-Эти светящиеся в темноте грибы растут прямо посреди токсичной лужи.
-Башня
-Пустая водонапорная башня.
-Стена древнего завода.
-Тяжелая входная дверь. Раньше умели такие делать.
-Стена уцелевшего здания.
-Эта огромная машина включает в себя множество функций и инструментов.
-Остатки верстака
-Разрушенный верстак. Теперь с его помощью невозможно что-либо произвести.
-Ферма
-Небольшая гидропоническая ферма на базе старой ванны. Неплохая идея.
-Картотечный шкаф
-Скамья
-Старая скамья. Вместо сломанных ножек удерживается на бетонных блоках.
-Крепкая деревянная дверь. Похоже, ее изготовили недавно.
-На вид довольно удобная кровать с непривычно чистым бельем.
-Тело посла
-Этого человека подвесили проводами на всеобщее обозрение. Видимо, с огнепоклонниками здесь больше не церемонятся.
-Подиум
-Обыкновенный подиум для выступлений. Но вам ведь обязательно нужно сунуть туда нос.
-Большой монитор, на котором показывают титры.
-Входная дверь
-Небольшое собрание древних книг, кладезь довоенных знаний.
-Чертежи
-Древние чертежи и принадлежности для их копирования.
-Книги
-Ветхие книги давно ушедшей эпохи.
-Старинный алтарь. От него тянутся многочисленные провода.
-Изящный старинный стол для людей с высокими требованиями. Роскошное кресло прилагается.
-Картина
-Старинная религиозная картина.
-Странная религиозная картина.
-Афиша
-Обесцветившийся постер некогда популярного фильма.
-Доска объявлений
-На этой доске размещено множество объявлений.
-Разыскивается
-Плакат с чьим-то изображением.
-Это вывеска агентства по найму.
-Вход в казино
-Это парадный вход казино.
-Это парадный вход казино. От сотрясений, вызванных взрывом, многие лампочки вышли из строя.
-Дверь казино
-Это парадная дверь казино.
-Микрофон
-Отличный микрофон. Если не считать, что кнопка на нем заедает.
-Сцена
-Полки для напитков
-Закусочная
-Стойка для приготовления закусок. Грязно и плохо пахнет.
-Разоренная закусочная
-В прошлом - стойка для приготовления закусок. Теперь же элемент уличного антуража.
-Лавка барахольщика
-Здесь лежит разное барахло на продажу.
-Разоренная лавка барахольщика
-Когда-то здесь продавали всякое барахло.
-Лавка одежды
-Здесь лежат предметы одежды на продажу.
-Разоренная лавка одежды
-Когда-то здесь продавали предметы одежды.
-Это вывеска оружейного магазина.
-Это вывеска оружейного магазина. Подсветка не работает.
-Торпеда
-Устрашающих размеров торпеда с ядерной боеголовкой. Одной такой хватит, чтобы разнести целый корабль. И еще пару миль вокруг.
-Товарные полки
-Это товарные полки оружейного магазина.
-Доска для записей
-На этой доске записи со множеством расчетом. Видимо, производство алкоголя не такое простое занятие.
-Статуя
-Древняя скульптура с давно забытым смыслом.
-Старый дорожный указатель.
-Очень старая вывеска с надписью "Ветряная мельница. Ранчо братьев Моррисон".
-Тень от вывески.
-Рисунок
-Здесь нарисован, как вам кажется, какой-то монстр. По крайней мере, вы никогда не видили подобных существ в реальном мире.
-Бак для воды
-Бак с остатками тухлой воды.
-Памятник
-Это памятник о каком-то важном, но давно забытом событии.
-Вывеска ринга
-Это вывеска бойцовского клуба.
-Навес
-Этот дырявый навес дает немного тени в полдень.
-Саркофаг
-Герметичная капсула, подключенная к газовому оборудованию. Кто-то недавно ею пользовался.
-Поврежденный саркофаг
-Крышка этого саркофага разбита упавшим камнем, а внутри мирно покоится чей-то скелет.
-Машина
-Эта машина была опрокинута в результате аварии.
-Чемодан с золотом
-Похоже, чемодан выпал из машины во время аварии. Его бесполезное содержимое рассыпалось по земле.
-Газовая станция
-Это газовое оборудование. Еще недавно оно производило какие-то операции.
-Обычный дорожный знак, давно потерявший свой смысл.
-Красный знак, на котором крупными печатными буквами написано "ALTO". Вы не имеете ни малейшего представления, что это значит.
-Разбитые очки
-Эти очки сломаны.
-Часы
-Большие фасадные часы. Не работают.
-Остатки книг
-Стопка книг
-Цистерна
-Полуприцеп от грузовика для перевозки жидкостей.
-Рекламный знак
-Это рекламный знак старого кафе.
-Кратер
-Это очень глубокая дыра в земле. Со дна поднимается пыльный горячий воздух.
-Целая стена из мусора.
-Рама
-Сильно проржавевшая рама от полуприцепа.
-Старый грязный интерком. После недавнего ремонта он вновь выполняет свое назначение.
-Знак "Петро-Чико"
-Это рекламный указатель "Петро-Чико".
-Тень от знака
-Канал акведука
-Старая дверь с металлической решеткой.
-Обрушение
-Эти завалы образовались от землетрясения после взрыва в Соборе.
-Радиооборудование
-Это похоже на часть радиооборудования.
-На эту деревянную скамью неблагоприятно повлияло время и внешние воздействия.
-Стена собора
-Панель управления
-Терминал для управления торпедным отсеком.
-Уличный прожектор
-Мощный осветительный прибор. До недавнего времени не работал.
-Сломанное оружие
-Обычный стол с истертой поверхностью. В данный момент на нем лежит сломанное оружие.
-Стена здания
-Древнее здание с гигантской антенной на крыше.
-Парадные двери
-Крепкие двери парадного входа.
-Обыкновенная стена вокруг парадного входа.
-Городские ворота, собранные из различного металлолома.
-Тень от городских ворот.
-Старый рекламный указатель. Теперь он указывает лишь на свое забытое прошлое.
-Яма
-Здоровенная яма от могилы.
-Знак
-Предупреждающий указатель со значком радиации. Хм, что бы это значило?
-Крыльцо
-Ступени парадного входа.
-Тень от входа в школу.
-Фасад здания бывшей школы.
-Набор различного мусора. Возможно, кто-то хотел собрать из этого произведение искусства.
-Огромная емкость для хранения воды.
-Гидробак
-Гидробак для буферизации системы.
-Нагреватель воды
-Примитивная системы для очистки и нагрева воды.
-Это ванна. К вашему удивлению она цела и готова к эксплуатации.
-Скелет неизвестного вам существа. Возможно, и ваши кости станут достоянием истории.
-Этот экспонат был безжалостно разворован. Вами.
-Старинная картина, изображающая боевые действия. Память об этих событиях уже давно утеряна.
-Музыкальный автомат
-Кажется, еще недавно этот автомат работал.
-Похищенный груз
-Разбойники стащили этот ящик у караванщиков.
-Голова преступника
-Голова преступника на шесте и описание под ней красноречиво демонстрируют силу местной власти. Про вас не сказано ни слова.
-Это вывеска купальни.
-Водокачка
-Эта водокачка в рабочем состоянии. Но сейчас в ней мало воды.
-Метка рейнджеров
-Этот грубый рисунок указывает, что территория находится под контролем рейнджеров.
-Гаражные ворота
-Смятые взрывной волной гаражные ворота. Руками не открыть.
-Останки семейной пары. Видимо, они умерли в один день.
-Топливный склад
-Гигантское хранилище углеводородов.
-В этой стене образовалась дыра.
-Эта лестница ведет вниз.
-Система охлаждения
-Эта система охлаждения была повреждена мощным взрывом.
-Эта система охлаждения работает в штатном режиме.
-Тяжелая герметичная дверь со свинцовым покрытием.
-Дверь к реактору
-Эта дверь ведет в помещение реактора.
-Шины для мотоцикла
-Пара на удивление хорошо сохранившихся шин.
-Емкость
-Этот огромный контейнер явно чем-то наполнен.
-Это опора для дорожных указателей.
-Этот знак указывается направление к соседнему городу.
-Этот знак указывается направление к центру города.
-Этот знак указывается направление к торговому центру.
-Силовая броня
-Это моторизированная броня - легенда из древних времен. Но сейчас она в нерабочем состоянии.
-Это похоже на большую железную птицу. И судя по всему, оно когда-то летало.
-Тень от бомбардировщика.
-Эта земля была вскрыта бомбардировщиком при падении.
-Скелет
-Этот человек погиб в расслабленной позе.
-Товарный стеллаж
-Разрушенный стеллаж с остатками товара.
-Касса
-Это кассовый стол. И на нем находится кассовый аппарат.
-Кнопка пожарной сигнализации
-Большой крупный рубильник. Похоже, им давно никто не пользовался.
-Монумент
-Памятник кому-то, чье имя давно забыто историей.
-Тень от дорожных указателей.
-Дальнобойный грузовик с логотипом "Петро-Чико".
-Заграждение ринга
-Эта вентиляция почти наверняка не работает.
-Это стена на удивление неплохо сохранилась.
-Обыкновенный стол с грязной скатертью и свечами.
-Заводская дверь с желтым предупредительным указателем.
-Герметичная судовая дверь.
-Заднее орудие
-Это заднее корабельное орудие. Выглядит мощно.
-Переднее орудие
-Это переднее корабельное орудие. Выглядит мощно.
-Борт корабля
-Это борт корабля.
-Штурвал
-Вы вращаете этот странный объект, но ничего не происходит.
-Возможно, это единственная лодка во всем мире, которая может плавать и не тонуть.
-Металлический стол, крепко привинченный к полу.
-Флаг Аризоны
-Это флаг довоенного штата Аризона. Маленькая память о большом прошлом.
-Эта металлическая лестница ведет на палубу выше.
-Эта металлическая лестница ведет на палубу ниже.
-Трап
-Эта лестница ведет на верхнюю палубу корабля.
-Эта лестница ведет вниз, прочь с корабля.
-Навигационная панель
-Здесь хранится картографическая информация.
-Карта США
-Это карта изображает Соединенные Штаты Америки.
-Поломанное оружие
-Это оружие неисправно. Кто-то старательно пытается его починить, но пока безуспешно.
-Стол кают-компании
-Отличный стол для проведения совещаний. Или для просмотра военного кино.
-Бортовой компьютер
-Внешне вполне рабочий компьютер. В данный момент отключен от питания.
-Вполне рабочий бортовой компьютер.
-Стена едва уцелевшей церкви.
-Массивные и очень прочные входные двери. Раньше умели строить.
-Тень от дорожного указателя.
-Надпись
-Большие металлические буквы на здании бывшего железнодорожного вокзала.
-Опора пирса
-Этот уличный фонарь по идеи должен давать освещение после наступления ночи.
-Бетоносмесительная установка
-Перед вами старая бетоносмесительная установка. Похоже, еще недавно она работала.
-Судовой двигатель
-Двухвальный двигатель от компании Уоттс Электроникс мощностью 60 000 лошадиных сил.
-Судовой реактор
-Атомный реактор марки D2G от компании Уоттс Электроникс.
-Старая хлипкая дверь с окошком.
-Входная дверь отеля.
-Рекламная конструкция
-Старая рекламная конструкция. Изображение давно унесло ветром, остался один остов.
-Торговый лоток
-Обветшалая торговая лавка. Когда-то очень давно с неё продавали еду и напитки.
-Старинный прибор
-Это похоже на старый радиоприемник. В любом случае оно не работает.
-Старая выцветшая надпись на стене.
-Емкость для воды
-Эта емкость для хранения воды была построена всего несколько лет назад.
-Ложе для торпед
-Это ложе для торпед пусто.
-Торпедный аппарат
-Крышка аппарата плотно заперта.
-Стена электростанции
-Перед вами фасад городской электростанции - очень старое здание.
-Приветственный билборд
-На этом билборде написана информация для вновь прибывших.
-Этот указатель был целенаправленно разрушен вандалами.
-Лаборатория гидролиза
-Установка для гидролиза. Выглядит довольно новой.
-Простая, но качественная, деревянная дверь.
-Это символ Последователей Апокалипсиса.
-Сирена
-Сирена городского оповещения.
-Тело Альваро
-Не выдержав паники, мэр Альваро покончил с собой.
-Флаг
-Флаг Новой Мексики гордо развивается на ветру.
-Рыболовная снасть
-Мелкая рыба не попадется в такую снасть из-за множества дыр.
-Эта шахта уходит глубоко во тьму. Туда же спускается прочная веревка.
-Здесь написано: "Гринуэй Гидропоникс". Плакат явно довоенный.
-Боевая мишень
-Самодельная мишень для стрельбы из легкого оружия.
-Ван Чун
-Вы видите то ли растение, то ли человека. Уже сложно сказать.
-Вы видите то ли растение, то ли человека. Но что бы это ни было, оно мертво.
-Реклама
-Большой рекламный плакат из старых времен.
-Большой знак с логотипом ядер-колы.
-Здесь показано расписание кинопоказов.
-Экран кинотеатра
-Огромный экран открытого кинотеатра.
-Разрушенный станок
-Этот станок больше не произведен ни одной детали.
-Это входная арка.
-Тело в ванной
-В ванной лежит тело девушки с множеством ножевых ранений.
-Ванная
-Эта ванная наполнена кровью.
-Ключница
-Ключи от номеров мотеля. Нескольких из них не хватает.
-Журнал постояльцев
-Журнал учета постояльцев.
-Эта опора удерживает крышу.
-Рекламный указатель
-На этом указателе написано: ресторан "Спейс Эйдж".
-Эта повозка стоит здесь совсем недавно. Все ценное из нее уже вытащили.
-На этом указателе написано: "Мотель Бейтса".
-Здание
-Фасад древнего здания. Первый этаж засыпан песчаной дюной.
-Нижнюю половину этого древнего грузовика поглотил бархан. Вероятно, ту же участь ожидает и остальная часть машины.
-Украшение
-Это украшение из флажков уже сильно выцвело от солнца, но продолжает радовать жителей.
-ЗРК
-Зенитный ракетный комплекс серии "Терьер".
-Стена погребенного здания.
-Фонарный столб, нелепо торчащий из дюны.
-Отвесная стена
-Эта стена накренилась и вот-вот обвалится. Достаточно лишь легкого касания.
-Множество старых тряпок защищают стену хижины от песчаных бурь и ветра.
-Обледенелая фигура
-Это животное было заживо заморожено.
-Этот человек был заживо заморожен.
-Повозка с поклажей кочевников.
-Обыкновенный кактус.
-Старый маяк
-Это древнее сооружение именуется маяком. Поговаривают, что когда-то оно светило в темноте морякам, но это не точно.
-Дух святого Иосифа
-Личный двухместный самолет святого отца Фреда Стэдтмаллера.
-Это чье-то ветхое жилище.
-Дверь автодома
-Эта дверь ведет внутрь автодома. А куда же еще?
-Стена автодома
-Это внутренняя стена автодома.
-Армейский ящик
-Этот ящик безнадежно испорчен.
-Человек у позорного столба
-Этот человек привязан к позорному столбу. Вероятно, не без причины.
-Щит с давно потускневшей рекламой.
-Огромный вентилятор высасывает затхлый воздух из помещений надстройки.
-Это вентиляция не работает.
-Это какой-то культовый объект.
-Мобильная крепость
-Глядя на столь огромное сооружение, вам кажется невероятным, что оно способно самостоятельно передвигаться.
-Эта лестница ведет внутрь крепости.
-Реактивный автомобиль
-Автомобиль на реактивной тяге. Не работает.
-Тень от радиовышки.
-Большая лодка на воздушной подушке.
-Очевидно, это борт корабля.
-Стена из металлолома
-Различный металлолом образует защитную стену города.
-Вы рассматриваете из окна операционной большое реакторное помещение.
-Это вывеска водокачки.
-Эта дверь ведет внутрь маяка. Очевидно, не правда ли?
-Химическая лаборатория
-Этот стол оборудован для проведения химических опытов.
-Осветительный механизм
-Это осветительный механизм маяка.
-Маяк
-Отсюда открывается завораживающий вид на залив.
-Смотровая вышка
-Это старая проржавевшая наблюдательная вышка.
-Чеканный станок
-Перед вами установка для производства крышек.
-Забор
-Большой забор, защищающий поселение от внешнего мира.
-Древний монумент. На нём еще можно различить надпись на испанском: "2051 aњo de la patria".
-Этот знак указывает направление к Фениксу.
-Огнеопасная ловушка
-Это опасная ловушка взорвется огненным шаром, если кто-то её активирует.
-Газовый баллон
-Кажется, этот баллон попал сюда со склада сверху.
-Спасательный круг
-Это старый спасательный круг.
-Это реклама довоенного напитка.
-Надпись "Старый маяк"
-На стене краской неумело написано название рыболовного клуба.
-Руины маяка
-Это руины древнего маяка.
-Тело подростка
-Перед вами труп молодого человека. Чтобы понять причину смерти, придется осмотреть его внимательнее.
-Вглубь уходит вентиляционная шахта.
-В эту вентиляционную шахту сброшена веревка.
-Полотно с каким-то религиозным символом.
-Точка сбора
-Здесь объявлена точка сбора для отправления в Сонору.
-Автомобильный туннель
-Этот автомобильный туннель проходит через мексиканскую границу.
-Вход на арену
-Дорожные указатели
-Старые дорожные указатели.
-Собранные из хлама, но при этом вполне прочные, ворота.
-Роллбар
-Уличная торговая тележка. Восстановлению не подлежит.
-Торговый прилавок
-Видимо, здесь когда-то чем-то торговали. А теперь здесь нельзя даже скрыться от солнца.
-Куча металлолома
-Просто куча различного металлолома. Возможно, если хорошенько порыться в ней, то можно найти что-нибудь полезное.
-Частично сгоревшая довоенная реклама.
+Power plant equipment
+There is a methodical humming noise coming from inside this box.
+There's something ticking inside that box.
+It would take a lifetime to study all those dials.
+A pair of pipes going from nowhere to nowhere. The purpose is unknown.
+Entrance to the base
+A reinforced makeshift door leading to a superstructure on the causeway.
+Dam wall
+Tin wall
+Cliff
+This steep cliff leads directly into the muddy waters of the Colorado River.
+This huge support holds some kind of equipment above ground.
+This equipment is used to amplify the radio signal. But half of the units in it don't work.
+Pier
+A rotten wooden pier.
+Ferry mechanism
+This mechanism starts the movement system of the ferry. It needs a lever to rotate it.
+Rope ferry
+A homemade wooden platform. Driven by a shore mechanism using a sturdy rope.
+Repeater equipment
+Equipment for receiving and transmitting radio signals. Recently installed.
+Broken equipment.
+This used to be equipment for receiving and transmitting radio signals. Now it is a mountain of garbage.
+Territory marking
+An unremarkable structure. It's a good place to study the surroundings.
+Crumbling wall
+This wall had better days. It looks like it would collapse at a single swing of a hammer.
+A repainted road sign that reads "Prison."
+A repainted road sign that says "Mine."
+An old double door with portholes and creaky hinges.
+Motorhome
+Practically a whole house on wheels.
+Tank of radioactive fuel.
+Rugged steel anti-shock fence.
+Food
+Pieces of raw meat suspended over a smoking fire.
+A rusted road sign with barely legible lettering.
+Bar sign
+Intact signboard of some ancient bar.
+Warning
+An ancient signpost with some inscriptions. They are worth a closer look.
+This sign says "Road Closed."
+Memorial tablet.
+A piece of polished stone with a metal plate on which the text is immortalized.
+Pot
+An upside down pot of overripe fruit.
+Dryer
+A homemade dryer for hay.
+An old wooden ladder. It creaks dangerously underfoot.
+These stairs lead to another floor.
+Control panel
+The control panel for the power plant.
+Elevator
+Lifting mechanism for the dam gates.
+Cargo cart
+An old platform for transporting cargo.
+From the sound of it, this container is empty.
+Fungus
+These glow-in-the-dark mushrooms grow right in the middle of a toxic puddle.
+Tower
+An empty water tower.
+The wall of the ancient factory.
+A heavy front door. People used to know how to make these.
+The wall of a surviving building.
+This huge machine includes many functions and tools.
+Remains of a workbench
+A ruined workbench. It is now impossible to produce anything with it.
+Farm
+A small hydroponic farm based on an old bathtub. A good idea.
+Filing cabinet
+Bench
+An old bench. Held on concrete blocks instead of its broken legs.
+Sturdy wooden door. Looks like it was made recently.
+Looks like a fairly comfortable bed with unusually clean sheets.
+Ambassador's body
+This man was hung by wires for all to see. Apparently, fire worshippers are no longer treated kindly here.
+Podium
+An ordinary podium for performances. But you have to stick your nose in it anyway.
+The big monitor, which shows the credits.
+Front door
+A small collection of ancient books, a treasure trove of prewar knowledge.
+Blueprints
+Ancient blueprints and accessories for copying them.
+Books
+Old books of a bygone era.
+An ancient altar. Numerous wires are stretched from it.
+Elegant antique table for people with high expectations. A luxurious armchair is attached.
+Painting
+An antique religious painting.
+A strange religious painting.
+Poster
+A faded poster of a once popular movie.
+Message board
+There are many advertisements on this board.
+Wanted
+A poster with someone's picture on it.
+It is a recruitment agency sign.
+Casino entrance
+This is the front entrance of the casino.
+This is the front entrance of the casino. Many of the light bulbs are out from the aftershocks of the explosion.
+Casino door
+This is the front door of the casino.
+Microphone
+It's a great microphone. Except for the fact that the button on it is jamming.
+Stage
+Beverage shelves
+Snack bar
+Snack counter. It's dirty and smells bad.
+Tattered snack bar
+Formerly a snack stand. Now it's a part of the street entourage.
+Hoarder's shop
+This is where all sorts of junk is for sale.
+Broken-down hoarder's shop
+All sorts of junk was once sold here.
+Clothes shop
+Clothes for sale are in this shop.
+Ruined clothes shop
+Clothing items used to be sold here.
+This is a gun store sign.
+This is a gun store sign. The lights don't work.
+Torpedo
+An intimidating-sized torpedo with a nuclear warhead. One of these is enough to blow up an entire ship. And a couple of miles around, too.
+Commodity shelves
+These are the merchandise shelves of a gun store.
+Record board
+This board contains notes with lots of calculations. Apparently, making alcohol is not that simple.
+Statue
+An ancient sculpture with a long forgotten meaning.
+An old road sign.
+A very old sign that reads "Windmill. Morrison Brothers Ranch."
+The shadow of the sign.
+Drawing
+This drawing shows some kind of monster, as you might think. At least you've never seen such creatures in the real world.
+Water tank
+A tank with leftover rotten water.
+Monument
+This is a monument to some important but long-forgotten event.
+Ring sign
+This is the sign of a fight club.
+Canopy
+This holey canopy gives some shade at noon.
+Sarcophagus
+A sealed capsule connected to the gas equipment. Someone used it recently.
+Damaged sarcophagus
+The top of this sarcophagus is shattered by a fallen rock. Someone's skeleton rests peacefully inside.
+Machine
+This car was knocked over in an accident.
+Suitcase of gold
+The suitcase seems to have fallen out of the car during the crash. Its useless contents are scattered on the ground.
+Gas station
+This is the gas equipment. Not long ago it was performing some kind of operation.
+An ordinary road sign that has long since lost its meaning.
+A red sign with "ALTO" written on it in large block letters. You have no idea what it means.
+Broken glasses
+These glasses are broken.
+Clock
+A large facade clock. It doesn't work.
+Remains of books
+Stack of books
+Tanker
+Semi-trailer of a truck for transporting liquids.
+Advertising sign
+This is the advertising sign for the old cafe.
+Crater
+This is a very deep hole in the ground. Dusty hot air rises from the bottom.
+A whole wall of debris.
+Frame
+A badly rusted frame of a semi-trailer.
+Dirty old intercom. After a recent repair, it is once again fulfilling its purpose.
+"Petro-Chico" sign.
+This is a "Petro-Chico" advertising sign.
+Shadow of the sign
+Aqueduct channel
+An old door with a metal grating.
+Collapse
+This rubble was formed by the earthquake after the explosion in the Cathedral.
+Radio equipment
+This looks like a piece of radio equipment.
+This wooden bench was unfavorably affected by time and outside influences.
+Cathedral wall
+Control panel
+A terminal to control the torpedo bay.
+Street spotlight
+Powerful lighting device. Did not work until recently.
+Broken weapon
+An ordinary table with a frayed surface. A broken weapon is currently lying on it.
+Building wall
+An ancient building with a giant antenna on the roof.
+Front doors
+The sturdy doors of the front entrance.
+A plain wall around the front entrance.
+A city gate, assembled from various scrap metal.
+The shadow of the city gate.
+An old advertising sign. It now points only to its forgotten past.
+Pit
+A huge grave pit.
+Sign
+A warning sign with a radiation symbol. Hmm, what would that mean?
+Porch
+The steps of the front entrance.
+The shadow of the school entrance.
+The facade of the former school building.
+A collection of miscellaneous trash. Perhaps someone wanted to make a work of art out of it.
+A huge water storage tank.
+Hydro tank
+A hydro tank used for buffering in the system.
+Water heater
+A primitive system for cleaning and heating water.
+This is a tub. To your surprise it is intact and ready for use.
+The skeleton of a creature unknown to you. Perhaps your bones, too, will make history.
+This exhibit was ruthlessly stolen. By you.
+An antique painting depicting a battle scene. The memory of these events has long been lost.
+Jukebox
+It seems that not long ago this jukebox was working.
+Stolen cargo
+The bandits stole this box from the caravan merchants.
+Outlaw's head
+The outlaw's head on a pole and the description beneath it eloquently demonstrate the power of local authority. Not a word about you.
+This is the sign of the bathing house.
+Waterworks
+This water tank is in working order. But it's low on water right now.
+Ranger tag
+This crude drawing indicates that the area is under the control of the rangers.
+Garage gate
+Garage door crumpled by the blast wave. Can't be opened by hand.
+The remains of a married couple. Apparently, they died on the same day.
+Fuel depot
+A gigantic hydrocarbon storage facility.
+There's a hole in this wall.
+This staircase goes down.
+Cooling system
+This cooling system was damaged by a massive explosion.
+This cooling system is operating normally.
+Heavy sealed door with lead coated door.
+Door to reactor
+This door leads to the reactor room.
+Motorcycle tires
+A pair of surprisingly well-preserved tires.
+Container
+This huge container is obviously filled with something.
+This is a support for road signs.
+This sign indicates the direction to the next town.
+This sign indicates the direction to the center of town.
+This sign indicates the direction to the mall.
+Power armor
+This motorized armor is a legend from ancient times. But now it is out of service.
+It looks like a big iron bird. And from the looks of it, it once flew.
+The shadow of a bomber.
+This ground was blasted open by the bomber as it fell.
+Skeleton
+This man died in a relaxed posture.
+Merchandise rack
+A ruined rack of leftover merchandise.
+Cash desk
+This is the cash desk. It has the cash register on it.
+Fire alarm button
+A large, large switch. Looks like no one has used it in a long time.
+Monument
+A monument to someone whose name has long been forgotten by history.
+Shadow of road signs.
+A long-distance truck with the "Petro-Chico" logo on it.
+The ring fence
+This vent almost certainly doesn't work.
+This wall is surprisingly well-preserved.
+An ordinary table with a dirty tablecloth and candles.
+A factory door with a yellow warning sign.
+Sealed ship's door.
+Rear gun
+This is the ship's rear gun. Looks powerful.
+Front gun
+This is the forward ship's gun. Looks powerful.
+Ship's side
+This is the side of the ship.
+Helm
+You spin this strange object, but nothing happens.
+This may be the only boat in the whole world that can float and not sink.
+A metal table bolted firmly to the floor.
+Flag of Arizona
+This is the flag of the prewar state of Arizona. A small memory of a great past.
+This metal ladder leads to the deck above.
+This metal ladder leads to the deck below.
+Ramp
+This ladder leads to the top deck of the ship.
+This ladder leads down, away from the ship.
+Navigation panel
+This is where the cartographic information is stored.
+Map of the United States
+This map depicts the United States of America.
+Broken weapon
+This weapon is malfunctioning. Someone is diligently trying to fix it, but so far without success.
+Wardroom table
+A great table for meetings. Or for watching war movies.
+Ship's computer
+An apparently perfectly serviceable computer. Currently disconnected from power.
+Fully working onboard computer.
+Wall of a barely surviving church.
+Solid and very strong front doors. Built in the old days.
+Shadow from road marker.
+Inscription
+Large metal letters on the building of the former train station.
+Pier support
+This street light is supposed to provide light after nightfall.
+Concrete mixer
+In front of you is an old concrete mixing plant. It looks like it was still working recently.
+Ship engine
+A twin-shaft engine from Watts Electronics with 60,000 horsepower.
+Ship's reactor
+Watts Electronics' D2G brand nuclear reactor.
+An old flimsy door with a window.
+Hotel front door.
+Advertisement structure
+Old advertising structure. The image has long been blown away by the wind, only the carcass is left.
+Market stall
+A dilapidated market stall. Once upon a time long ago it was used to sell food and drinks.
+Old device
+It looks like an old radio. In any case, it doesn't work.
+Old faded writing on the wall.
+Water tank
+This water storage tank was built just a few years ago.
+Torpedo bed
+This torpedo bed is empty.
+Torpedo apparatus
+The lid of the apparatus is tightly locked.
+Power plant wall
+This is the facade of the city's power plant, a very old building.
+Welcoming billboard
+This billboard has information for new arrivals.
+This sign was purposefully destroyed by vandals.
+Hydrolysis lab
+Hydrolysis lab. Looks fairly new.
+A simple, but high quality, wooden door.
+This is a symbol of the Followers of the Apocalypse.
+Siren
+A city alarm siren.
+Alvaro's body
+Unable to withstand the panic, Mayor Alvaro committed suicide.
+Flag
+The flag of New Mexico is proudly flying in the wind.
+Fishing tackle
+Small fish won't get caught in this tackle because of the many holes.
+This shaft goes deep into the darkness. A strong rope descends there as well.
+"Greenway Hydroponics." The poster is clearly prewar.
+Combat target
+An improvised target for firing small arms.
+Wang Chung
+You see either a plant or a person. It's hard to tell now.
+You see a plant or a person. Whatever it is, it's dead.
+Advertisement
+A big billboard from the old days.
+A big sign with the Nuka-Cola logo on it.
+It shows the movie screening schedule.
+Movie theater screen
+Huge open theater screen.
+Ruined machine
+This machine is no longer produced in any part.
+This is the entrance arch.
+Body in the bathtub
+In the bathtub lies the body of a girl with multiple stab wounds.
+Bathroom
+This bathroom is filled with blood.
+Keyholder
+The keys to the motel rooms. Several of them are missing.
+Guest log
+The guest log.
+This support holds up the roof.
+Advertising signpost
+This sign says "Space Age Restaurant".
+This wagon has been standing here for a while. Everything of value has been taken out of it.
+This sign says, "Bates Motel".
+Building
+The façade of the ancient building. The first floor is covered with a sand dune.
+The lower half of this ancient truck has been swallowed up by a sand dune. Probably the same fate awaits the rest of the vehicle.
+Decoration
+This flagstone ornament is already badly faded from the sun, but continues to bring joy to the residents.
+SAM
+An anti-aircraft missile system of the "Terrier" series.
+The wall of a buried building.
+Lantern pole sticking ridiculously out of a dune.
+Steep wall
+This wall is tilted and about to collapse. All it takes is a gentle touch.
+A layer of old rags protects the hut wall from sandstorms and wind.
+Frozen figure
+This animal was frozen alive.
+This man was frozen alive.
+The wagon with the nomads' luggage.
+A common cactus.
+Old lighthouse
+This ancient structure is called a lighthouse. It is rumored that it once shone in the darkness to sailors, but this is not certain.
+Spirit of St. Joseph
+The personal two-seat plane of St. Father Fred Stadtmaller.
+This is someone's dilapidated dwelling.
+Motorhome door
+This door leads inside the motor home. Where else would it go?
+The wall of the motor home.
+This is the inside wall of the motor home.
+Army crate
+This crate is hopelessly damaged.
+Person at the pole of shame
+This person is tied to a pillar of shame. Probably not without reason.
+A billboard with a long faded advertisement.
+A huge fan sucks the musty air out of the compartments of the outhouse.
+It's the ventilation that's not working.
+It's some kind of a religious object.
+Mobile fortress
+Looking at such a huge structure, it seems incredible that it can move on its own.
+This staircase leads inside the fortress.
+Rocket car
+Car with jet propulsion. Does not work.
+The shadow of a radio tower.
+Large hovercraft.
+Apparently, it's the side of a ship.
+A wall of scrap metal
+Various scrap metal forms a protective wall of the city.
+You are looking at a large reactor room from the operating room window.
+This is the sign of the water pump house.
+This door leads into the lighthouse. Obvious, isn't it?
+Chemistry lab
+This table is equipped for chemical experiments.
+Lighting mechanism
+This is the lighting mechanism of the lighthouse.
+Lighthouse
+From here you can get a mesmerizing view of the bay.
+Lookout tower
+This is an old, rusted out observation tower.
+Embossing machine
+This is the caps making machine.
+Fence
+A large fence protecting the settlement from the outside world.
+An ancient monument. You can still make out the inscription in Spanish: "2051 aњo de la patria".
+This sign indicates the direction to Phoenix.
+Fire frap
+This dangerous trap will explode with a fireball if someone activates it.
+Gas cylinder
+This gas cylinder seems to have come from the warehouse above.
+Lifebelt
+This is an old life preserver.
+It's an advertisement for a pre-war drink.
+The inscription says, "Old Lighthouse"
+The name of the fishing club is ineptly written on the wall with paint.
+Ruins of a lighthouse
+These are the ruins of an ancient lighthouse.
+Body of a teenager
+You are looking at the body of a young man. You'll have to take a closer look to understand the cause of death.
+A ventilation shaft goes down into the depths.
+A rope has been thrown down into this ventilation shaft.
+A cloth with some kind of religious symbol on it.
+Gathering point
+This is the rally point for the departure to Sonora.
+Car tunnel
+This car tunnel passes through the Mexican border.
+Entrance to the arena
+Road signs
+Old road signs.
+Assembled from junk, yet quite sturdy, gates.
+Rollbar
+Street shopping cart. Cannot be restored.
+Market stall.
+Apparently, there used to be a trade here. Now you can't even hide from the sun.
+Pile of scrap metal
+Just a bunch of different scrap metal. Maybe if you dig through it, you'll find something useful.
+Partially burnt out pre-war advertising.
 #NAME?
-Вяленое мясо
-Это мясо находится на просушке.
-Излучатель электро-магнитного импульса.
-Опора ограждения
-Остатки древнего деревянного ограждения.
-Обломки
-Обломки монументальной арки перекрыли проход по улице.
-Барный стул
-Обыкновенные ржавые гаражные ворота.
-Здесь написано: "Осторожно! Высокое напряжение".
-Знак "1"
-Знак с цифрой 1.
-Знак "2"
-Знак с цифрой 2.
-Ветхая дверь
-Эта дверь пытается преграждать вам путь.
-Двери
-Ржавая двустворочная дверь.
-Деревянный мостик
-Вам повезло, что кто-то перекинул через ручей несколько досок.
-Труба
-Это похоже на выход сливной канализации.
-Это вывеска мастерской и магазина.
-Разрушенный мост
-Волейбольный щит
-Топливный насос
-Арка
-Рекламная голограмма
-Эта голограмма что-то молча демонстрирует.
-Станция техобслуживания
-Шпала
-Фрагмент мостового каркаса.
-Вход на станцию
-Верстак с деталями
-На этом столе кто-то пытается собрать из подручных средств оружие.
-Просто стол.
-Голографический эмиттер
-Вы не знаете, что это такое и зачем оно здесь установлено.
-Голографический проектор
-На этом объекте написано слово "ГолоГен". Вы не знаете, что это такое.
-Замок на этой двери сильно заржавел.
-Очередной дорожный указатель. Вы такие уже видели.
-Обычная двустворочная дверь.
-Экран телевизора показывает какой-то шум.
-Экран телевизора
-Старая ржавая вывеска.
-Дыра в полу
-Очередная довоенная реклама.
-Вешалка
-Эти двери ведут внутрь здания.
-Азотная кислота
-Баллон с азотной кислотой. Судя по знакам, это очень опасный предмет.
-Разрушенная автострада
-Остатки какого-то довоенного плаката.
-Агитационный плакат
-Очень старый плакат на английском языке.
-Эта колонна обвалилась после образования в ней трещин.
-Просторная, но очень грязная кровать.
+Jerky
+This meat is on drying.
+An electro-magnetic pulse emitter.
+Fence post
+Remnants of an ancient wooden fence.
+Debris
+Debris of a monumental arch are blocking the street passage.
+Bar stool
+An ordinary rusty garage door.
+It says, "Beware! High Voltage."
+Sign "1"
+The sign with the number 1.
+Sign "2"
+Sign with the number 2.
+Worn door
+This door is trying to block your way.
+Doors
+A rusty double door.
+Wooden bridge
+You're lucky someone threw some planks across the creek.
+Pipe
+This looks like a drainage outlet.
+This is a workshop and store sign.
+Broken bridge
+Volleyball backboard
+Fuel pump
+Arch
+Advertising hologram
+This hologram is silently displaying something.
+Service station
+Tie
+A fragment of the bridge frame.
+Entrance to the station
+Workbench with parts
+Someone is trying to assemble a weapon on this table using the materials available.
+Just a table.
+A holographic emitter.
+You don't know what this is or why it's installed here.
+Holographic projector.
+The word "HoloGen" is written on this object. You don't know what it is.
+The lock on this door is badly rusted.
+Another road sign. You've seen these before.
+It's just a regular double door.
+The TV screen shows white noise.
+TV screen
+An old rusty sign.
+Hole in the floor
+Another pre-war advertisement.
+Hanger
+These doors lead inside the building.
+Nitric acid
+A cylinder of nitric acid. Judging by the signs, this is a very dangerous item.
+Ruined highway
+Remains of some kind of pre-war poster.
+Propaganda poster.
+A very old poster in English.
+This column collapsed after cracks formed in it.
+A spacious but very dirty bed.
