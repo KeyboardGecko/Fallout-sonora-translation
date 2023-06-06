@@ -1395,7 +1395,7 @@ Entrance to the station
 Workbench with parts
 Someone is trying to assemble a weapon on this table using the materials available.
 Just a table.
-A holographic emitter.
+Holographic emitter
 You don't know what this is or why it's installed here.
 Holographic projector.
 The word "HoloGen" is written on this object. You don't know what it is.
